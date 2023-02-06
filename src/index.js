@@ -10,7 +10,7 @@ root.render(
     domain={process.env.REACT_APP_AUTH0_DOMAIN}
     clientId={process.env.REACT_APP_AUTH0_CLIENTID}
     authorizationParams={{
-      redirect_uri: window.location.origin,
+      redirect_uri: "https://radhikbhojani.github.io/smart-tracking",
     }}
   >
     <React.StrictMode>
