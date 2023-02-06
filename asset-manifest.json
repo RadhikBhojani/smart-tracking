@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/smart-tracking/static/js/main.e21677a2.js",
+    "index.html": "/smart-tracking/index.html",
+    "main.e21677a2.js.map": "/smart-tracking/static/js/main.e21677a2.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e21677a2.js"
+  ]
+}
